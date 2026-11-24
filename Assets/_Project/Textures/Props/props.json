@@ -1,0 +1,770 @@
+{
+ "materials": [
+  {
+   "set": "Safe",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "Safe",
+   "glow": 0.0
+  },
+  {
+   "set": "Gramophone",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "Gramophone",
+   "glow": 0.0
+  },
+  {
+   "set": "OfficeKey_Material",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": false,
+   "mask": true,
+   "name": "OfficeKey_Material",
+   "glow": 0.5
+  },
+  {
+   "set": "OfficeKey_material_0",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": false,
+   "mask": true,
+   "name": "OfficeKey_material_0",
+   "glow": 0.5
+  },
+  {
+   "set": "ServiceBell",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "ServiceBell",
+   "glow": 0.3
+  },
+  {
+   "set": "Chocolates",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.06978648900985718,
+   "albedo": true,
+   "normal": false,
+   "mask": false,
+   "name": "Chocolates",
+   "glow": 0.35
+  },
+  {
+   "set": "FuseBox",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "FuseBox",
+   "glow": 0.0
+  },
+  {
+   "set": "KnifeSwitch",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "KnifeSwitchOpen",
+   "glow": 0.2
+  },
+  {
+   "set": "KnifeSwitch",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "KnifeSwitchClosed",
+   "glow": 0.2
+  },
+  {
+   "set": "Batteries",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "Batteries",
+   "glow": 0.4
+  },
+  {
+   "set": "Doll",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.19999998807907104,
+   "albedo": true,
+   "normal": false,
+   "mask": false,
+   "name": "Doll",
+   "glow": 0.0
+  },
+  {
+   "set": "Fuse_fusible-metal",
+   "alpha": "opaque",
+   "baseColor": [
+    0.1069936752319336,
+    0.1069936752319336,
+    0.1069936752319336,
+    1.0
+   ],
+   "metallic": 0.4000000059604645,
+   "smoothness": 0.7278344631195068,
+   "albedo": false,
+   "normal": false,
+   "mask": false,
+   "name": "Fuse_fusible-metal",
+   "glow": 0.5
+  },
+  {
+   "set": "Fuse_fusible-glass",
+   "alpha": "opaque",
+   "baseColor": [
+    1.0,
+    0.9636328220367432,
+    0.7896682024002075,
+    1.0
+   ],
+   "metallic": 0.4000000059604645,
+   "smoothness": 0.7278344631195068,
+   "albedo": false,
+   "normal": false,
+   "mask": false,
+   "name": "Fuse_fusible-glass",
+   "glow": 0.5
+  },
+  {
+   "set": "MusicBox_Box_Mat",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "MusicBox_Box_Mat",
+   "glow": 0.15
+  },
+  {
+   "set": "MusicBox_Glass_Mat",
+   "alpha": "blend",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "MusicBox_Glass_Mat",
+   "glow": 0.15
+  },
+  {
+   "set": "MusicBox_Hinges_Screws_Mirror_Mat",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "MusicBox_Hinges_Screws_Mirror_Mat",
+   "glow": 0.15
+  },
+  {
+   "set": "MusicBox_Legs_Key_Mat",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "MusicBox_Legs_Key_Mat",
+   "glow": 0.15
+  },
+  {
+   "set": "MusicBox_Lid_Mat",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "MusicBox_Lid_Mat",
+   "glow": 0.15
+  },
+  {
+   "set": "MusicBox_InnerSyst_Mat",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "MusicBox_InnerSyst_Mat",
+   "glow": 0.15
+  },
+  {
+   "set": "TeaSet",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "Teapot",
+   "glow": 0.3
+  },
+  {
+   "set": "TeaSet",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "SugarBowl",
+   "glow": 0.3
+  },
+  {
+   "set": "TeaSet",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "TeaCup",
+   "glow": 0.0
+  },
+  {
+   "set": "TeaSet",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "Plate",
+   "glow": 0.0
+  },
+  {
+   "set": "Cake",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "Cake",
+   "glow": 0.25
+  },
+  {
+   "set": "Notebook",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "Notebook",
+   "glow": 0.15
+  },
+  {
+   "set": "Chair",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "Chair",
+   "glow": 0.0
+  },
+  {
+   "set": "NightstandA",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "NightstandA",
+   "glow": 0.0
+  },
+  {
+   "set": "NightstandB",
+   "alpha": "opaque",
+   "baseColor": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "NightstandB",
+   "glow": 0.0
+  },
+  {
+   "set": "Desk",
+   "alpha": "opaque",
+   "baseColor": [
+    0.4854354541103905,
+    0.45626345839647037,
+    0.40086363305114275,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 1.0,
+   "albedo": true,
+   "normal": true,
+   "mask": true,
+   "name": "Desk",
+   "glow": 0.0
+  }
+ ],
+ "props": [
+  {
+   "name": "Safe",
+   "materials": [
+    "Safe"
+   ],
+   "tris": 2490,
+   "size": [
+    0.5374,
+    0.85,
+    0.7085
+   ]
+  },
+  {
+   "name": "Gramophone",
+   "materials": [
+    "Gramophone"
+   ],
+   "tris": 4545,
+   "size": [
+    0.4544,
+    0.62,
+    0.5072
+   ]
+  },
+  {
+   "name": "OfficeKey",
+   "materials": [
+    "OfficeKey_Material",
+    "OfficeKey_material_0"
+   ],
+   "tris": 4000,
+   "size": [
+    0.13,
+    0.0126,
+    0.0408
+   ]
+  },
+  {
+   "name": "ServiceBell",
+   "materials": [
+    "ServiceBell"
+   ],
+   "tris": 2308,
+   "size": [
+    0.13,
+    0.0715,
+    0.13
+   ]
+  },
+  {
+   "name": "Chocolates",
+   "materials": [
+    "Chocolates"
+   ],
+   "tris": 8853,
+   "size": [
+    0.2,
+    0.0426,
+    0.1179
+   ]
+  },
+  {
+   "name": "FuseBox",
+   "materials": [
+    "FuseBox"
+   ],
+   "tris": 3950,
+   "size": [
+    1.1253,
+    0.8,
+    0.3369
+   ]
+  },
+  {
+   "name": "KnifeSwitchOpen",
+   "materials": [
+    "KnifeSwitchOpen"
+   ],
+   "tris": 7552,
+   "size": [
+    0.0572,
+    0.2904,
+    0.2649
+   ]
+  },
+  {
+   "name": "KnifeSwitchClosed",
+   "materials": [
+    "KnifeSwitchClosed"
+   ],
+   "tris": 7552,
+   "size": [
+    0.0572,
+    0.3628,
+    0.0888
+   ]
+  },
+  {
+   "name": "Batteries",
+   "materials": [
+    "Batteries"
+   ],
+   "tris": 3040,
+   "size": [
+    0.085,
+    0.0559,
+    0.0521
+   ]
+  },
+  {
+   "name": "Doll",
+   "materials": [
+    "Doll"
+   ],
+   "tris": 23327,
+   "size": [
+    0.2873,
+    0.55,
+    0.2607
+   ]
+  },
+  {
+   "name": "Fuse",
+   "materials": [
+    "Fuse_fusible-metal",
+    "Fuse_fusible-glass"
+   ],
+   "tris": 284,
+   "size": [
+    0.0304,
+    0.13,
+    0.0304
+   ]
+  },
+  {
+   "name": "MusicBox",
+   "materials": [
+    "MusicBox_Box_Mat",
+    "MusicBox_Glass_Mat",
+    "MusicBox_Hinges_Screws_Mirror_Mat",
+    "MusicBox_Legs_Key_Mat",
+    "MusicBox_Lid_Mat",
+    "MusicBox_InnerSyst_Mat"
+   ],
+   "tris": 6679,
+   "size": [
+    0.3,
+    0.32,
+    0.1972
+   ]
+  },
+  {
+   "name": "Teapot",
+   "materials": [
+    "Teapot"
+   ],
+   "tris": 6000,
+   "size": [
+    0.1647,
+    0.1644,
+    0.2678
+   ]
+  },
+  {
+   "name": "SugarBowl",
+   "materials": [
+    "SugarBowl"
+   ],
+   "tris": 3998,
+   "size": [
+    0.1018,
+    0.1002,
+    0.1418
+   ]
+  },
+  {
+   "name": "TeaCup",
+   "materials": [
+    "TeaCup"
+   ],
+   "tris": 3999,
+   "size": [
+    0.149,
+    0.0773,
+    0.149
+   ]
+  },
+  {
+   "name": "Plate",
+   "materials": [
+    "Plate"
+   ],
+   "tris": 1500,
+   "size": [
+    0.1875,
+    0.0177,
+    0.1875
+   ]
+  },
+  {
+   "name": "Cake",
+   "materials": [
+    "Cake"
+   ],
+   "tris": 7999,
+   "size": [
+    0.1996,
+    0.0646,
+    0.1969
+   ]
+  },
+  {
+   "name": "Desk",
+   "materials": [
+    "Desk"
+   ],
+   "tris": 6898,
+   "size": [
+    1.6,
+    0.7875,
+    0.9472
+   ]
+  },
+  {
+   "name": "Notebook",
+   "materials": [
+    "Notebook"
+   ],
+   "tris": 2999,
+   "size": [
+    0.3652,
+    0.0177,
+    0.1999
+   ]
+  },
+  {
+   "name": "Chair",
+   "materials": [
+    "Chair"
+   ],
+   "tris": 1246,
+   "size": [
+    0.6394,
+    1.2638,
+    0.6621
+   ]
+  },
+  {
+   "name": "NightstandA",
+   "materials": [
+    "NightstandA"
+   ],
+   "tris": 2002,
+   "size": [
+    0.5678,
+    0.7,
+    0.4242
+   ]
+  },
+  {
+   "name": "NightstandB",
+   "materials": [
+    "NightstandB"
+   ],
+   "tris": 470,
+   "size": [
+    0.5046,
+    0.6155,
+    0.5087
+   ]
+  }
+ ]
+}

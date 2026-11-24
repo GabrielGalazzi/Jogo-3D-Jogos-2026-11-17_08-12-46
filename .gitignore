@@ -112,3 +112,17 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local build output
+/[Bb]uilds/
+
+# Raw third-party downloads (large; see ArtSource/README.md for sources)
+/ArtSource/Downloads/
+/ArtSource/Work/*.blend1
+
+# Vercidium Audio SDK: its licence only allows distribution inside a compiled build, never as loose files.
+# See README.md ("Ray-traced audio SDK") for how to install it locally.
+/[Aa]ssets/ThirdParty/VercidiumAudio/
+/[Aa]ssets/ThirdParty/VercidiumAudio.meta
+CLAUDE.md
+./CLAUDE

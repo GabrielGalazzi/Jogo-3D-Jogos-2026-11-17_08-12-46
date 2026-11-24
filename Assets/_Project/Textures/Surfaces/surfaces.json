@@ -1,0 +1,180 @@
+{
+  "surfaces": [
+    {
+      "name": "CeilingStained",
+      "source": "polyhaven:ceiling_interior",
+      "tileU": 3.0,
+      "tileV": 3.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "FloorCheckerDiner",
+      "source": "polyhaven:checkered_pavement_tiles",
+      "tileU": 2.0,
+      "tileV": 2.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "FloorCheckerRose",
+      "source": "polyhaven:floor_tiles_06",
+      "tileU": 1.6,
+      "tileV": 1.6,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "FloorConcrete",
+      "source": "polyhaven:concrete_floor_worn_001",
+      "tileU": 3.0,
+      "tileV": 3.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "FloorMosaicMint",
+      "source": "polyhaven:square_tiles",
+      "tileU": 2.4,
+      "tileV": 2.4,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "FloorParquet",
+      "source": "polyhaven:herringbone_parquet",
+      "tileU": 3.4,
+      "tileV": 3.4,
+      "smoothness": 0.7,
+      "normalScale": 1.0
+    },
+    {
+      "name": "FloorStage",
+      "source": "polyhaven:dark_wooden_planks",
+      "tileU": 2.0,
+      "tileV": 2.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "FloorWoodWorn",
+      "source": "polyhaven:wood_floor_worn",
+      "tileU": 2.0,
+      "tileV": 2.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "GinghamRose",
+      "source": "polyhaven:gingham_check",
+      "tileU": 0.45,
+      "tileV": 0.45,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "MetalRustyPaint",
+      "source": "polyhaven:rusty_metal_02",
+      "tileU": 1.0,
+      "tileV": 1.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "MetalSheetRusty",
+      "source": "polyhaven:rusty_metal_sheet",
+      "tileU": 2.0,
+      "tileV": 2.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "MetalTread",
+      "source": "polyhaven:metal_plate",
+      "tileU": 0.5,
+      "tileV": 0.5,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "TrimPainted",
+      "source": "polyhaven:distressed_painted_planks",
+      "tileU": 1.6,
+      "tileV": 1.6,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "WallBrickPainted",
+      "source": "polyhaven:painted_brick",
+      "tileU": 1.8,
+      "tileV": 1.8,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "WallPaintedConcrete",
+      "source": "polyhaven:painted_concrete",
+      "tileU": 2.0,
+      "tileV": 2.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "WallPanels",
+      "source": "polyhaven:wooden_panels",
+      "tileU": 2.1,
+      "tileV": 2.1,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "WallPlasterTeal",
+      "source": "polyhaven:blue_plaster_weathered",
+      "tileU": 2.0,
+      "tileV": 2.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "WallVelvet",
+      "source": "polyhaven:velour_velvet",
+      "tileU": 0.5,
+      "tileV": 0.5,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "WallpaperCream",
+      "source": "original pattern over polyhaven:worn_plaster_wall",
+      "tileU": 3.0,
+      "tileV": 3.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "WallpaperLilac",
+      "source": "original pattern over polyhaven:worn_plaster_wall",
+      "tileU": 3.0,
+      "tileV": 3.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "WallpaperRose",
+      "source": "original pattern over polyhaven:worn_plaster_wall",
+      "tileU": 3.0,
+      "tileV": 3.0,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    },
+    {
+      "name": "WoodWorn",
+      "source": "polyhaven:wood_table_worn",
+      "tileU": 1.1,
+      "tileV": 1.1,
+      "smoothness": 1.0,
+      "normalScale": 1.0
+    }
+  ]
+}
