@@ -7,7 +7,7 @@ floors while porcelain maids hunt you. Built with Unity 6 (URP) for Windows.
 
 - **Game Design Document (PT-BR):** [GDD.md](GDD.md)
 - **Changelog:** [changelog.md](changelog.md)
-- **itch.io:** _link pending_
+- **itch.io:** [Always at Your Service](https://gabriel-galazzi.itch.io/always-at-your-service)
 
 ## How to play
 | Action | Key |
